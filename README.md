@@ -6,8 +6,9 @@
 ---
 
 ### About me
-- Software Engineer with experience across backend and full-stack development
-- Currently working with cloud-based microservices and modern web applications
+- Currently pursuing a Master's degree in Software Engineering at UTCN
+- Software Engineer with experience in backend and full-stack development
+- Working on cloud-based microservices and modern web applications
 - Interested in AI orchestration, RAG systems, scalable backend architecture, and distributed systems
 - Based in Romania
 
@@ -29,10 +30,6 @@
 ### GitHub stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BildeaCristi&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
 </p>
 
 ### Connect with me
