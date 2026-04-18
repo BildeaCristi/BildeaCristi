@@ -28,7 +28,7 @@
 
 ### GitHub stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BildeaCriti&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BildeaCristi&show_icons=true" />
 </p>
 
 <p align="center">
